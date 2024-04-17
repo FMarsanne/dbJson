@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "email": "guilian.ganster@gmail.com",
+      "password": "$2a$10$V1RO6nAIVYCHGw0roHfkk.4zGkYHXQvn9aVUvVHPPv6Lynb9PdTbK",
+      "id": 1
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Faire les courses",
+      "description": "Acheter du pain, du lait et des oeufs",
+      "status": "OPEN",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "Faire du sport",
+      "description": "Faire 30 minutes de sport",
+      "status": "IN_PROGRESS",
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "title": "Tache 3",
+      "description": "Descr",
+      "status": "DONE",
+      "userId": 1
+    },
+    {
+      "title": "tutu",
+      "description": "tutu",
+      "status": "IN_PROGRESS",
+      "id": 4
+    },
+    {
+      "title": "tonton",
+      "description": "",
+      "status": "DONE",
+      "id": 5
+    },
+    {
+      "title": "tata",
+      "description": "",
+      "status": "OPEN",
+      "id": 6
+    },
+    {
+      "title": "tretre",
+      "description": "",
+      "status": "OPEN",
+      "id": 7
+    },
+    {
+      "title": "gege",
+      "description": "",
+      "status": "IN_PROGRESS",
+      "id": 8
+    },
+    {
+      "title": "kiki",
+      "description": "",
+      "status": "IN_PROGRESS",
+      "id": 9
+    },
+    {
+      "title": "Tache 4",
+      "description": "",
+      "status": "IN_PROGRESS",
+      "id": 10
+    }
+  ]
+}
